@@ -1,0 +1,14 @@
+ 
+   # Service Account - NUNCA subir a GitHub
+   f6b7dcc5-ad14-45b7-9317-80bbef5628b1.json
+   *.json
+   
+   # Archivos de Python
+   __pycache__/
+   *.py[cod]
+   venv/
+   .env
+   
+   # Archivos de modelo entrenado
+   *.pkl
+   *.joblib
